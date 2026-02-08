@@ -1,0 +1,1082 @@
+[
+  {
+    "asset_id": "ASSET_001",
+    "mission_type": "inspection",
+    "region": "mountain",
+    "operator": "Team_D",
+    "payload_kg": 8.236864167570305,
+    "route_length_km": 259.64558970161767,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_002",
+    "mission_type": "training",
+    "region": "desert",
+    "operator": "Team_A",
+    "payload_kg": 5.867061290989584,
+    "route_length_km": 179.02641164779368,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_003",
+    "mission_type": "training",
+    "region": "desert",
+    "operator": "Team_D",
+    "payload_kg": 8.57668015153365,
+    "route_length_km": 253.83416774574005,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_004",
+    "mission_type": "surveillance",
+    "region": "coastal",
+    "operator": "Team_A",
+    "payload_kg": null,
+    "route_length_km": 228.37699852615356,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_005",
+    "mission_type": "inspection",
+    "region": "urban",
+    "operator": "Team_A",
+    "payload_kg": 4.692751511319096,
+    "route_length_km": 277.09987622945215,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_006",
+    "mission_type": "surveillance",
+    "region": "desert",
+    "operator": "Team_D",
+    "payload_kg": null,
+    "route_length_km": 172.1798326301031,
+    "priority": "high"
+  },
+  {
+    "asset_id": "ASSET_007",
+    "mission_type": "logistics",
+    "region": "mountain",
+    "operator": "Team_B",
+    "payload_kg": 7.900857730293693,
+    "route_length_km": 226.2259828629545,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_008",
+    "mission_type": "logistics",
+    "region": "arctic",
+    "operator": "Team_A",
+    "payload_kg": 11.420608442249197,
+    "route_length_km": 337.58060268095915,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_009",
+    "mission_type": "mapping",
+    "region": "coastal",
+    "operator": "Team_C",
+    "payload_kg": 11.195185815533412,
+    "route_length_km": 113.71895696038958,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_010",
+    "mission_type": "inspection",
+    "region": "desert",
+    "operator": "Team_B",
+    "payload_kg": 7.79969644840469,
+    "route_length_km": 263.52617596310216,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_011",
+    "mission_type": "logistics",
+    "region": "urban",
+    "operator": "Team_D",
+    "payload_kg": null,
+    "route_length_km": 207.81388139484525,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_012",
+    "mission_type": "inspection",
+    "region": "desert",
+    "operator": "Team_A",
+    "payload_kg": 14.673311510611892,
+    "route_length_km": 140.30510613483594,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_013",
+    "mission_type": "training",
+    "region": "urban",
+    "operator": "Team_B",
+    "payload_kg": null,
+    "route_length_km": 181.6902495712365,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_014",
+    "mission_type": "surveillance",
+    "region": "urban",
+    "operator": "Team_C",
+    "payload_kg": null,
+    "route_length_km": 191.14495070732409,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_015",
+    "mission_type": "training",
+    "region": "arctic",
+    "operator": "Team_C",
+    "payload_kg": 15.94584003307193,
+    "route_length_km": 257.85046582117974,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_016",
+    "mission_type": "training",
+    "region": "desert",
+    "operator": "Team_A",
+    "payload_kg": 10.360110617380911,
+    "route_length_km": 79.28382814216607,
+    "priority": "high"
+  },
+  {
+    "asset_id": "ASSET_017",
+    "mission_type": "training",
+    "region": "urban",
+    "operator": "Team_B",
+    "payload_kg": 13.253682823072122,
+    "route_length_km": 326.1759574054202,
+    "priority": "high"
+  },
+  {
+    "asset_id": "ASSET_018",
+    "mission_type": "logistics",
+    "region": "urban",
+    "operator": "Team_C",
+    "payload_kg": 12.148366622066447,
+    "route_length_km": 121.30610612584042,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_019",
+    "mission_type": "mapping",
+    "region": "arctic",
+    "operator": "Team_C",
+    "payload_kg": 11.2680635668531,
+    "route_length_km": 268.0173518075902,
+    "priority": "high"
+  },
+  {
+    "asset_id": "ASSET_020",
+    "mission_type": "mapping",
+    "region": "urban",
+    "operator": "Team_A",
+    "payload_kg": 5.477883943868576,
+    "route_length_km": 143.14293073826474,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_021",
+    "mission_type": "mapping",
+    "region": null,
+    "operator": "Team_C",
+    "payload_kg": 10.949275649604527,
+    "route_length_km": 274.9735182184893,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_022",
+    "mission_type": "surveillance",
+    "region": "coastal",
+    "operator": "Team_B",
+    "payload_kg": 9.37642499059931,
+    "route_length_km": 235.95589497589557,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_023",
+    "mission_type": "training",
+    "region": "urban",
+    "operator": "Team_D",
+    "payload_kg": 9.7818729364718,
+    "route_length_km": 204.6566199947038,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_024",
+    "mission_type": "logistics",
+    "region": "coastal",
+    "operator": "Team_C",
+    "payload_kg": 2.322624484471426,
+    "route_length_km": 194.46539028929195,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_025",
+    "mission_type": "surveillance",
+    "region": "urban",
+    "operator": "Team_D",
+    "payload_kg": 12.318398552938755,
+    "route_length_km": 10.0,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_026",
+    "mission_type": "logistics",
+    "region": "arctic",
+    "operator": "Team_D",
+    "payload_kg": 6.021350814344265,
+    "route_length_km": 356.8756553248282,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_027",
+    "mission_type": "inspection",
+    "region": "urban",
+    "operator": "Team_A",
+    "payload_kg": 4.857921314941743,
+    "route_length_km": 207.85360255283274,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_028",
+    "mission_type": "training",
+    "region": "mountain",
+    "operator": "Team_D",
+    "payload_kg": 7.740844051353973,
+    "route_length_km": 354.71830118390835,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_029",
+    "mission_type": "mapping",
+    "region": "urban",
+    "operator": "Team_D",
+    "payload_kg": 8.441323409759825,
+    "route_length_km": 286.51054865528636,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_030",
+    "mission_type": "surveillance",
+    "region": "mountain",
+    "operator": "Team_C",
+    "payload_kg": 10.250085750655325,
+    "route_length_km": 185.55691894880792,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_031",
+    "mission_type": "inspection",
+    "region": "arctic",
+    "operator": "Team_C",
+    "payload_kg": 12.887909068793398,
+    "route_length_km": 266.42274528837606,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_032",
+    "mission_type": "surveillance",
+    "region": "coastal",
+    "operator": "Team_B",
+    "payload_kg": 0.8380619410430317,
+    "route_length_km": 114.65183522574887,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_033",
+    "mission_type": "logistics",
+    "region": "arctic",
+    "operator": "Team_B",
+    "payload_kg": 11.997708712816333,
+    "route_length_km": 213.00573882202227,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_034",
+    "mission_type": "mapping",
+    "region": "coastal",
+    "operator": "Team_C",
+    "payload_kg": 13.214012777652556,
+    "route_length_km": 130.1880066092376,
+    "priority": "high"
+  },
+  {
+    "asset_id": "ASSET_035",
+    "mission_type": "mapping",
+    "region": "urban",
+    "operator": "Team_C",
+    "payload_kg": 17.72483984288967,
+    "route_length_km": 162.00906140783815,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_036",
+    "mission_type": "training",
+    "region": null,
+    "operator": "Team_A",
+    "payload_kg": 14.541622399238804,
+    "route_length_km": 255.57847545718784,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_037",
+    "mission_type": "surveillance",
+    "region": "desert",
+    "operator": "Team_D",
+    "payload_kg": 11.153028881919266,
+    "route_length_km": 383.66835813002047,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_038",
+    "mission_type": "surveillance",
+    "region": "coastal",
+    "operator": "Team_B",
+    "payload_kg": 2.031235329592752,
+    "route_length_km": 354.4825792816605,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_039",
+    "mission_type": "logistics",
+    "region": "arctic",
+    "operator": "Team_D",
+    "payload_kg": 14.295418659141918,
+    "route_length_km": 203.93734669345582,
+    "priority": "high"
+  },
+  {
+    "asset_id": "ASSET_040",
+    "mission_type": "mapping",
+    "region": "urban",
+    "operator": "Team_A",
+    "payload_kg": 10.765525262224239,
+    "route_length_km": 244.38740608503284,
+    "priority": "high"
+  },
+  {
+    "asset_id": "ASSET_041",
+    "mission_type": "surveillance",
+    "region": "urban",
+    "operator": "Team_A",
+    "payload_kg": 5.696561424321636,
+    "route_length_km": 322.96612779857435,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_042",
+    "mission_type": "surveillance",
+    "region": "urban",
+    "operator": "Team_C",
+    "payload_kg": 8.961803580485869,
+    "route_length_km": 199.5748176292586,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_043",
+    "mission_type": "inspection",
+    "region": "urban",
+    "operator": "Team_B",
+    "payload_kg": 7.351459606464999,
+    "route_length_km": 220.6081765747892,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_044",
+    "mission_type": "training",
+    "region": "coastal",
+    "operator": "Team_D",
+    "payload_kg": 6.634973660767827,
+    "route_length_km": 143.26810806661348,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_045",
+    "mission_type": "inspection",
+    "region": "desert",
+    "operator": "Team_A",
+    "payload_kg": 11.919659440738354,
+    "route_length_km": 224.63899002330123,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_046",
+    "mission_type": "training",
+    "region": "arctic",
+    "operator": "Team_A",
+    "payload_kg": 11.307616272100772,
+    "route_length_km": 217.92666081906955,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_047",
+    "mission_type": "surveillance",
+    "region": "mountain",
+    "operator": "Team_A",
+    "payload_kg": 16.368295321636243,
+    "route_length_km": 308.22592116795795,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_048",
+    "mission_type": "logistics",
+    "region": "urban",
+    "operator": "Team_A",
+    "payload_kg": null,
+    "route_length_km": 187.108995028476,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_049",
+    "mission_type": "mapping",
+    "region": "arctic",
+    "operator": "Team_D",
+    "payload_kg": 7.694587745857395,
+    "route_length_km": 287.0342114597096,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_050",
+    "mission_type": "mapping",
+    "region": "mountain",
+    "operator": "Team_C",
+    "payload_kg": 19.45747223484291,
+    "route_length_km": 275.37521506661375,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_051",
+    "mission_type": "logistics",
+    "region": "mountain",
+    "operator": "Team_B",
+    "payload_kg": 5.726500410673289,
+    "route_length_km": 181.70130969530607,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_052",
+    "mission_type": "mapping",
+    "region": "desert",
+    "operator": "Team_D",
+    "payload_kg": 8.961273089777016,
+    "route_length_km": 10.0,
+    "priority": "high"
+  },
+  {
+    "asset_id": "ASSET_053",
+    "mission_type": "surveillance",
+    "region": "arctic",
+    "operator": "Team_C",
+    "payload_kg": 14.966525787666317,
+    "route_length_km": 276.3812949059531,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_054",
+    "mission_type": "mapping",
+    "region": "arctic",
+    "operator": "Team_B",
+    "payload_kg": 15.067862100497415,
+    "route_length_km": 193.62985872863152,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_055",
+    "mission_type": "mapping",
+    "region": "urban",
+    "operator": "Team_D",
+    "payload_kg": 9.732078693209418,
+    "route_length_km": 190.69948659376826,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_056",
+    "mission_type": "mapping",
+    "region": "desert",
+    "operator": "Team_A",
+    "payload_kg": 6.702917613765919,
+    "route_length_km": 288.916526288417,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_057",
+    "mission_type": "surveillance",
+    "region": "mountain",
+    "operator": "Team_C",
+    "payload_kg": 11.676721900427777,
+    "route_length_km": 308.7084404114006,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_058",
+    "mission_type": "training",
+    "region": "coastal",
+    "operator": "Team_B",
+    "payload_kg": 3.699565110451636,
+    "route_length_km": 345.0090369434323,
+    "priority": "high"
+  },
+  {
+    "asset_id": "ASSET_059",
+    "mission_type": "inspection",
+    "region": "urban",
+    "operator": "Team_B",
+    "payload_kg": 12.08812043695497,
+    "route_length_km": 291.94152974823044,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_060",
+    "mission_type": "mapping",
+    "region": "mountain",
+    "operator": "Team_B",
+    "payload_kg": 10.195343814913345,
+    "route_length_km": 376.8155720627052,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_061",
+    "mission_type": "logistics",
+    "region": "urban",
+    "operator": "Team_D",
+    "payload_kg": 9.463639676379971,
+    "route_length_km": 230.32303176369902,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_062",
+    "mission_type": "inspection",
+    "region": "arctic",
+    "operator": "Team_B",
+    "payload_kg": 8.70784495500701,
+    "route_length_km": 229.13429700148168,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_063",
+    "mission_type": "logistics",
+    "region": "desert",
+    "operator": "Team_B",
+    "payload_kg": 11.93800282520355,
+    "route_length_km": 336.7859536956365,
+    "priority": "high"
+  },
+  {
+    "asset_id": "ASSET_064",
+    "mission_type": "surveillance",
+    "region": "desert",
+    "operator": "Team_D",
+    "payload_kg": 6.86529886663215,
+    "route_length_km": 288.9655857259894,
+    "priority": "high"
+  },
+  {
+    "asset_id": "ASSET_065",
+    "mission_type": "inspection",
+    "region": "coastal",
+    "operator": "Team_D",
+    "payload_kg": 11.579535207442442,
+    "route_length_km": 122.46058779142206,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_066",
+    "mission_type": "inspection",
+    "region": "coastal",
+    "operator": "Team_A",
+    "payload_kg": 12.620189397485023,
+    "route_length_km": 182.31727154489218,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_067",
+    "mission_type": "surveillance",
+    "region": "arctic",
+    "operator": "Team_A",
+    "payload_kg": 13.89580667546233,
+    "route_length_km": 263.92443999587647,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_068",
+    "mission_type": "logistics",
+    "region": null,
+    "operator": "Team_A",
+    "payload_kg": 10.417355257388344,
+    "route_length_km": 249.5395163738346,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_069",
+    "mission_type": "training",
+    "region": "arctic",
+    "operator": "Team_C",
+    "payload_kg": 21.846776805546522,
+    "route_length_km": 172.91792465971523,
+    "priority": "high"
+  },
+  {
+    "asset_id": "ASSET_070",
+    "mission_type": "logistics",
+    "region": "coastal",
+    "operator": "Team_C",
+    "payload_kg": 11.554268646711007,
+    "route_length_km": 177.8054875740783,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_071",
+    "mission_type": "logistics",
+    "region": null,
+    "operator": "Team_A",
+    "payload_kg": 13.231205506548617,
+    "route_length_km": 366.9624897649809,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_072",
+    "mission_type": "training",
+    "region": "urban",
+    "operator": "Team_A",
+    "payload_kg": 7.642944383567761,
+    "route_length_km": 158.9846257222814,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_073",
+    "mission_type": "mapping",
+    "region": "coastal",
+    "operator": "Team_A",
+    "payload_kg": 11.84749193955907,
+    "route_length_km": 193.76749586961793,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_074",
+    "mission_type": "training",
+    "region": "desert",
+    "operator": "Team_B",
+    "payload_kg": null,
+    "route_length_km": 241.37256782588744,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_075",
+    "mission_type": "training",
+    "region": "urban",
+    "operator": "Team_C",
+    "payload_kg": 3.5322394060004942,
+    "route_length_km": 203.08814373458148,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_076",
+    "mission_type": "logistics",
+    "region": "desert",
+    "operator": "Team_C",
+    "payload_kg": 2.9653255969070154,
+    "route_length_km": 78.82815518091749,
+    "priority": "high"
+  },
+  {
+    "asset_id": "ASSET_077",
+    "mission_type": "inspection",
+    "region": "mountain",
+    "operator": "Team_A",
+    "payload_kg": 7.704216022939132,
+    "route_length_km": 339.7643493694128,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_078",
+    "mission_type": "training",
+    "region": "arctic",
+    "operator": "Team_C",
+    "payload_kg": 12.74435172526277,
+    "route_length_km": 309.0406595272914,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_079",
+    "mission_type": "surveillance",
+    "region": "urban",
+    "operator": "Team_D",
+    "payload_kg": 10.036518029859197,
+    "route_length_km": 432.9334832238195,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_080",
+    "mission_type": "surveillance",
+    "region": "urban",
+    "operator": "Team_B",
+    "payload_kg": 10.404686009728477,
+    "route_length_km": 166.9713362107958,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_081",
+    "mission_type": "mapping",
+    "region": "coastal",
+    "operator": "Team_D",
+    "payload_kg": 11.071301125853772,
+    "route_length_km": 127.18787578268518,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_082",
+    "mission_type": "surveillance",
+    "region": "coastal",
+    "operator": "Team_B",
+    "payload_kg": 6.483721817314699,
+    "route_length_km": 381.1694980771466,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_083",
+    "mission_type": "mapping",
+    "region": "arctic",
+    "operator": "Team_C",
+    "payload_kg": 14.671310632744536,
+    "route_length_km": 275.3014202177544,
+    "priority": "high"
+  },
+  {
+    "asset_id": "ASSET_084",
+    "mission_type": "training",
+    "region": "mountain",
+    "operator": "Team_C",
+    "payload_kg": 12.260791652018264,
+    "route_length_km": 126.98828580208355,
+    "priority": "high"
+  },
+  {
+    "asset_id": "ASSET_085",
+    "mission_type": "inspection",
+    "region": "mountain",
+    "operator": "Team_D",
+    "payload_kg": 7.306754132688152,
+    "route_length_km": 80.39176149734814,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_086",
+    "mission_type": "logistics",
+    "region": "mountain",
+    "operator": "Team_A",
+    "payload_kg": 13.008496293048271,
+    "route_length_km": 180.25900189823238,
+    "priority": "high"
+  },
+  {
+    "asset_id": "ASSET_087",
+    "mission_type": "mapping",
+    "region": "arctic",
+    "operator": "Team_D",
+    "payload_kg": 0.6060373885891313,
+    "route_length_km": 179.4802677393343,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_088",
+    "mission_type": "surveillance",
+    "region": "desert",
+    "operator": "Team_C",
+    "payload_kg": 17.866765773081063,
+    "route_length_km": 151.0998266880113,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_089",
+    "mission_type": "inspection",
+    "region": "urban",
+    "operator": "Team_D",
+    "payload_kg": 9.083217194058179,
+    "route_length_km": 201.77139341246027,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_090",
+    "mission_type": "training",
+    "region": "mountain",
+    "operator": "Team_A",
+    "payload_kg": 5.593629200069776,
+    "route_length_km": 216.6664991727033,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_091",
+    "mission_type": "surveillance",
+    "region": "mountain",
+    "operator": "Team_B",
+    "payload_kg": 7.793717404652954,
+    "route_length_km": 222.26743243720418,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_092",
+    "mission_type": "mapping",
+    "region": "desert",
+    "operator": "Team_A",
+    "payload_kg": 7.866918814114764,
+    "route_length_km": 325.8529922111817,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_093",
+    "mission_type": "mapping",
+    "region": "coastal",
+    "operator": "Team_B",
+    "payload_kg": 16.856229649712475,
+    "route_length_km": 57.89123079947211,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_094",
+    "mission_type": "training",
+    "region": "desert",
+    "operator": "Team_C",
+    "payload_kg": 10.613208377041278,
+    "route_length_km": 247.5914129204965,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_095",
+    "mission_type": "mapping",
+    "region": "urban",
+    "operator": "Team_C",
+    "payload_kg": 15.285800390346541,
+    "route_length_km": 252.22583162465614,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_096",
+    "mission_type": "mapping",
+    "region": "coastal",
+    "operator": "Team_C",
+    "payload_kg": 7.662994373880133,
+    "route_length_km": 283.05445794719736,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_097",
+    "mission_type": "logistics",
+    "region": "mountain",
+    "operator": "Team_C",
+    "payload_kg": null,
+    "route_length_km": 274.821127916044,
+    "priority": "high"
+  },
+  {
+    "asset_id": "ASSET_098",
+    "mission_type": "surveillance",
+    "region": null,
+    "operator": "Team_A",
+    "payload_kg": 0.6793544059063805,
+    "route_length_km": 394.1119294958253,
+    "priority": "high"
+  },
+  {
+    "asset_id": "ASSET_099",
+    "mission_type": "training",
+    "region": "mountain",
+    "operator": "Team_A",
+    "payload_kg": 6.676191335017185,
+    "route_length_km": 279.7134392356646,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_100",
+    "mission_type": "training",
+    "region": "desert",
+    "operator": "Team_C",
+    "payload_kg": 6.030469876926595,
+    "route_length_km": 150.16285111155793,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_101",
+    "mission_type": "surveillance",
+    "region": "arctic",
+    "operator": "Team_B",
+    "payload_kg": 16.22376310162706,
+    "route_length_km": 106.63725543732843,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_102",
+    "mission_type": "training",
+    "region": "coastal",
+    "operator": "Team_C",
+    "payload_kg": 3.433086221045654,
+    "route_length_km": 109.3681106308718,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_103",
+    "mission_type": "surveillance",
+    "region": "mountain",
+    "operator": "Team_C",
+    "payload_kg": 8.626841494709051,
+    "route_length_km": 167.15582839403916,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_104",
+    "mission_type": "logistics",
+    "region": "mountain",
+    "operator": "Team_D",
+    "payload_kg": 6.178537277759144,
+    "route_length_km": 192.8063823719033,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_105",
+    "mission_type": "inspection",
+    "region": "coastal",
+    "operator": "Team_D",
+    "payload_kg": 9.343336383844086,
+    "route_length_km": 79.50298910397998,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_106",
+    "mission_type": "logistics",
+    "region": "desert",
+    "operator": "Team_A",
+    "payload_kg": 5.689580450375554,
+    "route_length_km": 38.69638966707973,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_107",
+    "mission_type": "surveillance",
+    "region": "urban",
+    "operator": "Team_C",
+    "payload_kg": 7.425522417307985,
+    "route_length_km": 152.91398605427975,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_108",
+    "mission_type": "training",
+    "region": "mountain",
+    "operator": "Team_A",
+    "payload_kg": 4.84424224892637,
+    "route_length_km": 297.4812874387168,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_109",
+    "mission_type": "training",
+    "region": null,
+    "operator": "Team_D",
+    "payload_kg": 10.760003132945913,
+    "route_length_km": 278.52260573794103,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_110",
+    "mission_type": "inspection",
+    "region": "arctic",
+    "operator": "Team_D",
+    "payload_kg": 7.732393015225532,
+    "route_length_km": 225.25894395601753,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_111",
+    "mission_type": "mapping",
+    "region": "desert",
+    "operator": "Team_C",
+    "payload_kg": 6.624227551037373,
+    "route_length_km": 174.468702004653,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_112",
+    "mission_type": "surveillance",
+    "region": "urban",
+    "operator": "Team_D",
+    "payload_kg": 16.477568009913938,
+    "route_length_km": 154.8063427284921,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_113",
+    "mission_type": "inspection",
+    "region": "arctic",
+    "operator": "Team_B",
+    "payload_kg": 14.68825137527563,
+    "route_length_km": 167.613675223653,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_114",
+    "mission_type": "training",
+    "region": "mountain",
+    "operator": "Team_C",
+    "payload_kg": 13.292571164867564,
+    "route_length_km": 210.22857990853421,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_115",
+    "mission_type": "mapping",
+    "region": "arctic",
+    "operator": "Team_C",
+    "payload_kg": 7.68116947342593,
+    "route_length_km": 335.33330946770843,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_116",
+    "mission_type": "surveillance",
+    "region": "arctic",
+    "operator": "Team_A",
+    "payload_kg": 17.439597196570446,
+    "route_length_km": 48.513767685800815,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_117",
+    "mission_type": "surveillance",
+    "region": "coastal",
+    "operator": "Team_A",
+    "payload_kg": 17.225656690955994,
+    "route_length_km": 187.08665928731264,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_118",
+    "mission_type": "inspection",
+    "region": "urban",
+    "operator": "Team_B",
+    "payload_kg": 2.2819865982405725,
+    "route_length_km": 429.24379590405323,
+    "priority": "medium"
+  },
+  {
+    "asset_id": "ASSET_119",
+    "mission_type": "mapping",
+    "region": "coastal",
+    "operator": "Team_C",
+    "payload_kg": 6.326792083127611,
+    "route_length_km": 373.7456052835197,
+    "priority": "low"
+  },
+  {
+    "asset_id": "ASSET_120",
+    "mission_type": "inspection",
+    "region": "desert",
+    "operator": "Team_A",
+    "payload_kg": 10.619052799252078,
+    "route_length_km": 166.83215811982063,
+    "priority": "low"
+  }
+]
